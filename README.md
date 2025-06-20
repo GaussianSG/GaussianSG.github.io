@@ -11,8 +11,8 @@
 </div>
 
 <p align="center">
-    <a href="https://gaussian.id"><img alt="Website" src="https://img.shields.io/badge/Website-gaussian.id-blue?style=for-the-badge&logo=icloud&logoColor=white"></a>
-    <a href="https://gaussian.id/schedule-demo"><img alt="Schedule Demo" src="https://img.shields.io/badge/Schedule Demo-Book Now-blueviolet?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
+    <a href="https://gaussian.sg"><img alt="Website" src="https://img.shields.io/badge/Website-gaussian.sg-blue?style=for-the-badge&logo=icloud&logoColor=white"></a>
+    <a href="https://gaussian.sg/schedule-demo"><img alt="Schedule Demo" src="https://img.shields.io/badge/Schedule Demo-Book Now-blueviolet?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
     <a href="https://github.com/gaussian-org/landing-page/deployments"><img alt="Deployment" src="https://img.shields.io/github/deployments/gaussian-org/landing-page/github-pages?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://nextjs.org"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
 </p>
@@ -131,7 +131,7 @@ npm run start
 
 1. Repository is configured for GitHub Pages deployment
 2. Deployment source: GitHub Actions
-3. Custom domain: `gaussian.id` (if configured)
+3. Custom domain: `gaussian.sg` (if configured)
 
 ---
 
@@ -197,19 +197,19 @@ To learn more about the technologies used in this project:
 ## 📄 License & Legal
 
 <p align="center">
-  <a href="https://gaussian.id/privacy-policy">Privacy Policy</a> • 
-  <a href="https://gaussian.id/terms-conditions">Terms & Conditions</a> • 
-  <a href="https://gaussian.id/customer-support">Customer Support</a>
+  <a href="https://gaussian.sg/privacy-policy">Privacy Policy</a> • 
+  <a href="https://gaussian.sg/terms-conditions">Terms & Conditions</a> • 
+  <a href="https://gaussian.sg/customer-support">Customer Support</a>
   <br><br>
-  <em>© 2025 Gaussian.id. All Rights Reserved</em>
+  <em>© 2025 Gaussian.sg. All Rights Reserved</em>
 </p>
 
 ---
 
 <div align="center">
   <p>
-    <a href="https://gaussian.id">🌐 Visit Our Website</a> |
-    <a href="https://gaussian.id/schedule-demo">📅 Schedule a Demo</a> |
-    <a href="https://gaussian.id/contact">💬 Contact Us</a>
+    <a href="https://gaussian.sg">🌐 Visit Our Website</a> |
+    <a href="https://gaussian.sg/schedule-demo">📅 Schedule a Demo</a> |
+    <a href="https://gaussian.sg/contact">💬 Contact Us</a>
   </p>
 </div>
